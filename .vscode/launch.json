@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_mario_bros_responsive",
+            "name": "flutter_animated_responsive_layout_codelabs",
             "request": "launch",
             "type": "dart"
         }

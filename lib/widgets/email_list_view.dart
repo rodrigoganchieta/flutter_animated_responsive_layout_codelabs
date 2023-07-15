@@ -24,7 +24,7 @@ class EmailListView extends StatelessWidget {
       child: ListView(
         children: [
           const SizedBox(height: 8),
-          SearchBar(currentUser: currentUser),
+          // /SearchBar(currentUser: currentUser),
           const SizedBox(height: 8),
           ...List.generate(
             data.emails.length,

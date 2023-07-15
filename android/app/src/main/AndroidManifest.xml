@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_mario_bros_responsive">
+    package="com.example.flutter_animated_responsive_layout_codelabs">
    <application
-        android:label="flutter_mario_bros_responsive"
+        android:label="flutter_animated_responsive_layout_codelabs"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
